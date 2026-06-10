@@ -6,7 +6,7 @@
 
 ---
 
-## 🛡️ About Me
+🛡️ About Me
 
 I am a Cyber Forensics postgraduate student passionate about cyber security, digital forensics, SOC operations, malware analysis, and threat hunting. I enjoy building practical cybersecurity projects, working with security tools, and continuously improving my technical and analytical skills.
 
